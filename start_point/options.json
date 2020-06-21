@@ -1,0 +1,23 @@
+
+{
+  "red":
+    {
+      "filename":"hiker.vhdl",
+      "from":"00110110",
+      "to":"00111111"
+    }
+  ,
+  "green":
+    {
+      "filename":"hiker.vhdl",
+      "from":"00110110",
+      "to":"00101010"
+    }
+  ,
+  "amber":
+    {
+      "filename":"hiker.vhdl",
+      "from":"begin",
+      "to":"beginsdef"
+    }
+}

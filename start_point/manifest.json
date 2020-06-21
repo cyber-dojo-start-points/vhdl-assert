@@ -1,0 +1,13 @@
+{
+  "display_name": "VHDL, assert",
+  "image_name": "cyberdojofoundation/vhdl_assert",
+  "visible_filenames":
+  [
+     "hiker_testbench.vhdl",
+     "hiker.vhdl",
+     "cyber-dojo.sh"
+  ],
+  "filename_extension": [ ".vhdl" ],
+  "max_seconds": 10,
+  "tab_size": 4
+}
