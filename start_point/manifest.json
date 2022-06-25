@@ -1,6 +1,6 @@
 {
   "display_name": "VHDL, assert",
-  "image_name": "cyberdojofoundation/vhdl_assert:6c2cfb5",
+  "image_name": "cyberdojofoundation/vhdl_assert:6629459",
   "visible_filenames": [
     "hiker_testbench.vhdl",
     "hiker.vhdl",
