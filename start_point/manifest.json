@@ -1,11 +1,12 @@
 {
-  "display_name": "VHDL, assert",
-  "image_name": "cyberdojofoundation/vhdl_assert:6629459",
+  "display_name": "VHDL 4.1.0, assert",
+  "image_name": "ghcr.io/cyber-dojo-languages/vhdl_assert:756e36a",
   "visible_filenames": [
     "hiker_testbench.vhdl",
     "hiker.vhdl",
     "cyber-dojo.sh"
   ],
+  "rag_lambda": "red_amber_green.rb",
   "filename_extension": [
     ".vhdl"
   ],
