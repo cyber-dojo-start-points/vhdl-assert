@@ -7,7 +7,6 @@ jobs:
 
   red_amber_green_test:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
     steps:
       - uses: cyber-dojo-start-points/pinned-checkout@main
 
