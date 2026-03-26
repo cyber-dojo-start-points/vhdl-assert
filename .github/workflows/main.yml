@@ -2,9 +2,10 @@ name: Main
 
 on:
   push:
+    branches:
+      - main
 
 jobs:
-
   red_amber_green_test:
     runs-on: ubuntu-latest
     steps:
