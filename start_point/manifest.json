@@ -1,5 +1,13 @@
 {
   "display_name": "VHDL 4.1.0, assert",
+  "language": [
+    "VHDL",
+    "4.1.0"
+  ],
+  "test_framework": [
+    "assert",
+    ""
+  ],
   "image_name": "ghcr.io/cyber-dojo-languages/vhdl_assert:756e36a",
   "visible_filenames": [
     "hiker_testbench.vhdl",
