@@ -4,7 +4,6 @@
   "match_counts": {
     "^All tests passed!$": 1,
     "^entity=:checksum:$": 1,
-    "^elaborate checksum$": 1,
     "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): End of test$": 1,
     "assertion failure": 0
   }

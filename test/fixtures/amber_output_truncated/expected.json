@@ -3,7 +3,7 @@
   "matches": [ "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(report note\\): debug: meaning of life is still 54 on pass 1$" ],
   "match_counts": {
     "assertion failure": 0,
-    "^\\./hiker_testbench:error: assertion failed$": 0,
+    "^[^ ]*:error: assertion failed$": 0,
     "^All tests passed!$": 0
   }
 }

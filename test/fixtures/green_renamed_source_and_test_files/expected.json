@@ -3,8 +3,8 @@
   "truncated": false,
   "match_counts": {
     "^All tests passed!$": 1,
-    "^elaborate fizz_buzz$": 1,
-    "^elaborate fizz_buzz_testbench$": 1,
+    "^entity=:fizz_buzz:$": 1,
+    "^entity=:fizz_buzz_testbench:$": 1,
     "^fizz_buzz_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): End of test$": 1,
     "hiker": 0
   }

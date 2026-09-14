@@ -3,7 +3,7 @@
   "match_counts": {
     "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): Size checked$": 1,
     "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion failure\\): Meaning of life value incorrect$": 1,
-    "^\\./hiker_testbench:error: assertion failed$": 1,
+    "^[^ ]*:error: assertion failed$": 1,
     "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): End of test$": 0,
     "^All tests passed!$": 0
   }

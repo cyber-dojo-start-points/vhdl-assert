@@ -4,8 +4,8 @@
     "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion failure\\): Meaning of life value incorrect$": 1,
     "^answer_size_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion failure\\): Meaning of life is not three digits long$": 1,
     "^parity_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion failure\\): Meaning of life is not odd$": 1,
-    "^\\./[a-z_]+:error: assertion failed$": 3,
-    "^\\./[a-z_]+:error: simulation failed$": 3,
+    "^[^ ]*:error: assertion failed$": 3,
+    "^[^ ]*:error: simulation failed$": 3,
     "^All tests passed!$": 0
   }
 }
