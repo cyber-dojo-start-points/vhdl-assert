@@ -1,0 +1,10 @@
+{
+  "max_output_lines": 15,
+  "truncated": false,
+  "match_counts": {
+    "^All tests passed!$": 1,
+    "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(report note\\): debug: bit [0-9]+ is set to '[01]'$": 3,
+    "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): End of test$": 1,
+    "assertion failure": 0
+  }
+}

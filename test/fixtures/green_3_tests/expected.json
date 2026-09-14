@@ -1,0 +1,11 @@
+{
+  "max_output_lines": 14,
+  "truncated": false,
+  "match_counts": {
+    "^All tests passed!$": 1,
+    "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): Size checked$": 1,
+    "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): Parity checked$": 1,
+    "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): End of test$": 1,
+    "assertion failure": 0
+  }
+}

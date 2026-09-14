@@ -1,0 +1,9 @@
+{
+  "truncated": false,
+  "matches": [ "^checksum\\.vhdl:[0-9]+:[0-9]+:error: primary expression expected$" ],
+  "match_counts": {
+    "^checksum\\.vhdl:[0-9]+:[0-9]+:error: ';' expected at end of signal assignment$": 1,
+    "^All tests passed!$": 0,
+    "assertion": 0
+  }
+}

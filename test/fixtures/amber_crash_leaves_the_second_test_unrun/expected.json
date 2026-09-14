@@ -1,0 +1,11 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): Value checked$": 1,
+    "^\\./hiker_testbench:error: division by 0$": 1,
+    "^\\./hiker_testbench:error: simulation failed$": 1,
+    "^\\./hiker_testbench:error: assertion failed$": 0,
+    "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:@1ns:\\(assertion note\\): End of test$": 0,
+    "^All tests passed!$": 0
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "max_output_lines": 8,
+  "truncated": false,
+  "match_counts": {
+    "^All tests passed!$": 1,
+    "^elaborate hiker$": 1,
+    "assertion": 0
+  }
+}

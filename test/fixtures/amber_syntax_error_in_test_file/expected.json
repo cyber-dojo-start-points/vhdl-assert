@@ -1,0 +1,8 @@
+{
+  "truncated": false,
+  "match_counts": {
+    "^hiker_testbench\\.vhdl:[0-9]+:[0-9]+:error: missing \";\" at end of statement$": 1,
+    "^All tests passed!$": 0,
+    "assertion": 0
+  }
+}
