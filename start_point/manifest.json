@@ -1,14 +1,14 @@
 {
-  "display_name": "VHDL 4.1.0, assert",
+  "display_name": "VHDL 5.0.1, assert",
   "language": [
     "VHDL",
-    "4.1.0"
+    "5.0.1"
   ],
   "test_framework": [
     "assert",
     ""
   ],
-  "image_name": "ghcr.io/cyber-dojo-languages/vhdl_assert:756e36a",
+  "image_name": "ghcr.io/cyber-dojo-languages/vhdl_assert:0d9d472@sha256:7904ad9e1cabb2248470f4e17fc1f3cc1dd2bd1b68e5b5e23d84e9b5fda4e1af",
   "visible_filenames": [
     "hiker_testbench.vhdl",
     "hiker.vhdl",
